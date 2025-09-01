@@ -1,0 +1,390 @@
+﻿[
+  {
+    "es": [
+      "tiempo"
+    ],
+    "en": [
+      "time"
+    ]
+  },
+  {
+    "es": [
+      "persona"
+    ],
+    "en": [
+      "person"
+    ]
+  },
+  {
+    "es": [
+      "ano"
+    ],
+    "en": [
+      "year"
+    ]
+  },
+  {
+    "es": [
+      "camino"
+    ],
+    "en": [
+      "way"
+    ]
+  },
+  {
+    "es": [
+      "forma"
+    ],
+    "en": [
+      "way"
+    ]
+  },
+  {
+    "es": [
+      "dia"
+    ],
+    "en": [
+      "day"
+    ]
+  },
+  {
+    "es": [
+      "cosa"
+    ],
+    "en": [
+      "thing"
+    ]
+  },
+  {
+    "es": [
+      "hombre"
+    ],
+    "en": [
+      "man"
+    ]
+  },
+  {
+    "es": [
+      "mundo"
+    ],
+    "en": [
+      "world"
+    ]
+  },
+  {
+    "es": [
+      "vida"
+    ],
+    "en": [
+      "life"
+    ]
+  },
+  {
+    "es": [
+      "mano"
+    ],
+    "en": [
+      "hand"
+    ]
+  },
+  {
+    "es": [
+      "parte"
+    ],
+    "en": [
+      "part"
+    ]
+  },
+  {
+    "es": [
+      "nino"
+    ],
+    "en": [
+      "child"
+    ]
+  },
+  {
+    "es": [
+      "nina"
+    ],
+    "en": [
+      "child"
+    ]
+  },
+  {
+    "es": [
+      "ojo"
+    ],
+    "en": [
+      "eye"
+    ]
+  },
+  {
+    "es": [
+      "mujer"
+    ],
+    "en": [
+      "woman"
+    ]
+  },
+  {
+    "es": [
+      "lugar"
+    ],
+    "en": [
+      "place"
+    ]
+  },
+  {
+    "es": [
+      "trabajo"
+    ],
+    "en": [
+      "work"
+    ]
+  },
+  {
+    "es": [
+      "semana"
+    ],
+    "en": [
+      "week"
+    ]
+  },
+  {
+    "es": [
+      "caso"
+    ],
+    "en": [
+      "case"
+    ]
+  },
+  {
+    "es": [
+      "punto"
+    ],
+    "en": [
+      "point"
+    ]
+  },
+  {
+    "es": [
+      "tema"
+    ],
+    "en": [
+      "point"
+    ]
+  },
+  {
+    "es": [
+      "gobierno"
+    ],
+    "en": [
+      "government"
+    ]
+  },
+  {
+    "es": [
+      "empresa"
+    ],
+    "en": [
+      "company"
+    ]
+  },
+  {
+    "es": [
+      "compania"
+    ],
+    "en": [
+      "company"
+    ]
+  },
+  {
+    "es": [
+      "hermoso"
+    ],
+    "en": [
+      "beautiful"
+    ]
+  },
+  {
+    "es": [
+      "tiempo"
+    ],
+    "en": [
+      "time"
+    ]
+  },
+  {
+    "es": [
+      "persona"
+    ],
+    "en": [
+      "person"
+    ]
+  },
+  {
+    "es": [
+      "a\u00F1o"
+    ],
+    "en": [
+      "year"
+    ]
+  },
+  {
+    "es": [
+      "camino",
+      "forma"
+    ],
+    "en": [
+      "way"
+    ]
+  },
+  {
+    "es": [
+      "d\u00EDa"
+    ],
+    "en": [
+      "day"
+    ]
+  },
+  {
+    "es": [
+      "cosa"
+    ],
+    "en": [
+      "thing"
+    ]
+  },
+  {
+    "es": [
+      "hombre"
+    ],
+    "en": [
+      "man"
+    ]
+  },
+  {
+    "es": [
+      "mundo"
+    ],
+    "en": [
+      "world"
+    ]
+  },
+  {
+    "es": [
+      "vida"
+    ],
+    "en": [
+      "life"
+    ]
+  },
+  {
+    "es": [
+      "mano"
+    ],
+    "en": [
+      "hand"
+    ]
+  },
+  {
+    "es": [
+      "parte"
+    ],
+    "en": [
+      "part"
+    ]
+  },
+  {
+    "es": [
+      "ni\u00F1o",
+      "ni\u00F1a"
+    ],
+    "en": [
+      "child"
+    ]
+  },
+  {
+    "es": [
+      "ojo"
+    ],
+    "en": [
+      "eye"
+    ]
+  },
+  {
+    "es": [
+      "mujer"
+    ],
+    "en": [
+      "woman"
+    ]
+  },
+  {
+    "es": [
+      "lugar"
+    ],
+    "en": [
+      "place"
+    ]
+  },
+  {
+    "es": [
+      "trabajo"
+    ],
+    "en": [
+      "work"
+    ]
+  },
+  {
+    "es": [
+      "semana"
+    ],
+    "en": [
+      "week"
+    ]
+  },
+  {
+    "es": [
+      "caso"
+    ],
+    "en": [
+      "case"
+    ]
+  },
+  {
+    "es": [
+      "punto",
+      "tema"
+    ],
+    "en": [
+      "point"
+    ]
+  },
+  {
+    "es": [
+      "gobierno"
+    ],
+    "en": [
+      "government"
+    ]
+  },
+  {
+    "es": [
+      "empresa",
+      "compa\u00F1\u00EDa"
+    ],
+    "en": [
+      "company"
+    ]
+  },
+  {
+    "es": [
+      "hermoso"
+    ],
+    "en": [
+      "beautiful"
+    ]
+  }
+]
